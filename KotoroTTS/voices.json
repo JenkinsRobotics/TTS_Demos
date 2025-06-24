@@ -1,0 +1,9 @@
+{
+    "favorites": ["af_heart", "am_adam"],
+    "all_voices": [
+      "af_heart", "af_nicole", "af_sophia",
+      "am_adam", "am_brian", "am_tyler",
+      "bf_emma", "bf_julia", "bf_grace",
+      "bm_george", "bm_david", "bm_james"
+    ]
+  }

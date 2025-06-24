@@ -1,0 +1,4 @@
+git+https://github.com/nari-labs/dia.git
+PySide6
+soundfile
+sounddevice
